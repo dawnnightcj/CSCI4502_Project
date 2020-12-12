@@ -12,9 +12,11 @@ As the project's name, we use many attributes such as time, region, temperature,
 
 ## Dataset
 
-Since the size of dataset is large, we do not include the dataset in our folder.       
-
 The dataset's URL: https://www.kaggle.com/sobhanmoosavi/us-accidents
+
+## Github
+
+The Repository URL: https://github.com/dawnnightcj/CSCI4502_Project.git
 
 ## Setup
 
@@ -33,6 +35,7 @@ pip install plotly==4.13.0
 | Data Cleaning, Selection, and Graph.ipynb | the file contains the data cleaning, data selection, and graph generation we did |
 | Graphs folder                             | the folder contains all graphs we generated                  |
 | README                                    | the description of running code                              |
+| US_Accidents_June20.csv                   | our dataset                                                  |
 
 In the Graphs folder
 
